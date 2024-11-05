@@ -1,0 +1,4 @@
+fizemos isso para usar o app.js
+
+"start": "nodemon app.js" -> mudamos, aqui era "test" e foi para "start"
+"main": "app.js" -> mudamos, aqui era "index.js" e foi para "app.js"
